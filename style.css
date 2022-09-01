@@ -1,9 +1,38 @@
 h1{
     color:red;
     background-color: black;
-    font-family: papyrus
+    font-family: monospace;
+    border:groove 10px purple;
+    border-radius: 10px;
 }
 
-ol {
+body{
+    background-color:gray;
+}
+#mheader{
+    color:red;
+    background-color: black;
+    border:groove 5px purple;
+    border-radius: 5px;
+    font-family: monospace;
+}
+
+#mpar{
+    
+
+    
+}
+
+a:link{
+    color:purple;
+}
+
+a:hover{
+    color:red;
+}
+
+#gamelist{
+    padding-left: 0px;
+    color:purple;
     list-style-type: upper-roman;
   }
