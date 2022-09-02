@@ -37,7 +37,16 @@ a:hover{
     padding-left: 0px;
     display: flex;
     justify-content: space-evenly;
+ 
+
 
     color:purple;
     list-style-type: upper-roman;
   }
+
+  #gi:hover{
+    transform: scale(1.5);
+  }
+
+
+    
