@@ -17,11 +17,13 @@ body{
     font-family: monospace;
 }
 
-#mpar{
-    
-
-    
+img{
+    height: 12vw;
+    width: 10vw;
+    border-radius: 20px;
 }
+
+
 
 a:link{
     color:purple;
@@ -33,6 +35,9 @@ a:hover{
 
 #gamelist{
     padding-left: 0px;
+    display: flex;
+    justify-content: space-evenly;
+
     color:purple;
     list-style-type: upper-roman;
   }
